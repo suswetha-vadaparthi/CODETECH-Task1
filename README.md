@@ -23,4 +23,6 @@ DURATION:SEPTEMBER TO NOVEMBER
 https://suswetha-vadaparthi.github.io/CODETECH-Task1/
 ## Output:
 ![image](https://github.com/user-attachments/assets/fe55cbba-7cb4-4a5d-97f1-e77512cc36c0)
+![image](https://github.com/user-attachments/assets/85d5da39-5451-4ac7-9987-a5cea01aeac1)
+
 
