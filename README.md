@@ -20,3 +20,4 @@ DURATION:SEPTEMBER TO NOVEMBER
 * Axios for API requests
 * Font Awesome for icons
 ## Output link:
+https://suswetha-vadaparthi.github.io/CODETECH-Task1/
