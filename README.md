@@ -21,3 +21,6 @@ DURATION:SEPTEMBER TO NOVEMBER
 * Font Awesome for icons
 ## Output link:
 https://suswetha-vadaparthi.github.io/CODETECH-Task1/
+## Output:
+![image](https://github.com/user-attachments/assets/fe55cbba-7cb4-4a5d-97f1-e77512cc36c0)
+
